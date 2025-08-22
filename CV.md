@@ -25,9 +25,6 @@
   *Bachelorarbeit: "Molekulardynamische Untersuchungen an Silicium und Siliciumoxidgrenzflächen"*  
   Abschlussnote: 1,7  
 
-- **Allgemeine Hochschulreife**  
-  Graf-Stauffenberg-Gymnasium Osnabrück (2014)  
-
 ---
 
 ## 💼 Berufserfahrung
@@ -44,16 +41,6 @@
   - Eigenständige Bearbeitung eines Forschungsprojekts (Oberflächenbeschichtungen, Kontaktwinkelmessungen)  
   - Laboranalytik, Planung & Durchführung von Experimenten  
   - Präsentation von Ergebnissen und Abschlussbericht  
-
-- **Hilfswissenschaftlicher Mitarbeiter**  
-  Leibniz-Universität Hannover (06/2017 – 08/2019)  
-  - Betreuung von Laborpraktika und Studierenden  
-  - Projektarbeit mit Industriepartnern  
-  - Lehrtätigkeit und Prüfungsvorbereitung  
-
-- **Schulisches Betriebspraktikum**  
-  KME Germany GmbH, Osnabrück (10/2012)  
-  - Kennenlernen industrieller Abläufe und Analytik  
 
 ---
 
@@ -88,3 +75,4 @@
 ## 📬 Kontakt
 - E-Mail: [bewerbung-hk@mailbox.org](mailto:bewerbung-hk@mailbox.org)  
 - LinkedIn: [linkedin.com/in/henning-kuper](https://www.linkedin.com/in/henning-kuper)  
+
